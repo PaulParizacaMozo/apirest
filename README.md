@@ -6,7 +6,7 @@
 
 ## 🚀 Tecnologías
 
-- **Backend:** Node.js + Express + MySQL (conexión mediante `mysql2`)
+- **Backend:** Node.js + Express + MySQL
 - **Frontend:** React + Vite + Axios
 - **Base de datos:** MySQL (con tabla `tbl_alumnos` + datos iniciales desde `init.sql`)
 - **Notificaciones:** React Toastify
