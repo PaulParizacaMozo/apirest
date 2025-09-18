@@ -29,7 +29,7 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone 
+git clone https://github.com/PaulParizacaMozo/apirest
 cd apirest
 ````
 
